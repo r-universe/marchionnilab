@@ -28,3 +28,8 @@
 	url = https://github.com/marchionniLab/switchBox
 	shallow = true
 	registered = true
+[submodule "BiocStyle"]
+	path = BiocStyle
+	url = https://github.com/Bioconductor/BiocStyle
+	shallow = true
+	registered = false
