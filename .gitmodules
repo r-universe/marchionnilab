@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/marchionnilab/universe
 	shallow = true
 	branch = HEAD
+[submodule "covid19census"]
+	path = covid19census
+	url = https://github.com/marchionniLab/covid19census
+	shallow = true
+	registered = true
+[submodule "RTopper"]
+	path = RTopper
+	url = https://github.com/marchionniLab/RTopper
+	shallow = true
+	registered = true
+[submodule "divergence"]
+	path = divergence
+	url = https://github.com/marchionniLab/divergence
+	shallow = true
+	registered = true
+[submodule "lpcover"]
+	path = lpcover
+	url = https://github.com/marchionniLab/lpcover
+	shallow = true
+	registered = true
+[submodule "switchBox"]
+	path = switchBox
+	url = https://github.com/marchionniLab/switchBox
+	shallow = true
+	registered = true

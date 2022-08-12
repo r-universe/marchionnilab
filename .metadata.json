@@ -1,0 +1,17 @@
+[
+  {
+    "package": "covid19census"
+  },
+  {
+    "package": "RTopper"
+  },
+  {
+    "package": "divergence"
+  },
+  {
+    "package": "lpcover"
+  },
+  {
+    "package": "switchBox"
+  }
+]
