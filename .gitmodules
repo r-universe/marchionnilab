@@ -28,6 +28,11 @@
 	url = https://github.com/marchionniLab/switchBox
 	shallow = true
 	registered = true
+[submodule "ABCutilities"]
+	path = ABCutilities
+	url = https://github.com/marchionniLab/ABCutilities
+	shallow = true
+	registered = true
 [submodule "BiocStyle"]
 	path = BiocStyle
 	url = https://github.com/Bioconductor/BiocStyle
