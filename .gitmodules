@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/marchionnilab/universe
+	url = https://github.com/marchionnilab/marchionnilab.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "covid19census"]
