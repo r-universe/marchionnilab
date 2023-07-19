@@ -1,40 +1,26 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/marchionnilab/marchionnilab.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "covid19census"]
 	path = covid19census
 	url = https://github.com/marchionniLab/covid19census
-	shallow = true
-	registered = true
 [submodule "RTopper"]
 	path = RTopper
 	url = https://github.com/marchionniLab/RTopper
-	shallow = true
-	registered = true
 [submodule "divergence"]
 	path = divergence
 	url = https://github.com/marchionniLab/divergence
-	shallow = true
-	registered = true
 [submodule "lpcover"]
 	path = lpcover
 	url = https://github.com/marchionniLab/lpcover
-	shallow = true
-	registered = true
 [submodule "switchBox"]
 	path = switchBox
 	url = https://github.com/marchionniLab/switchBox
-	shallow = true
-	registered = true
 [submodule "ABCutilities"]
 	path = ABCutilities
 	url = https://github.com/marchionniLab/ABCutilities
-	shallow = true
-	registered = true
 [submodule "BiocStyle"]
 	path = BiocStyle
 	url = https://github.com/Bioconductor/BiocStyle
-	shallow = true
 	registered = false
