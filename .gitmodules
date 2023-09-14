@@ -2,12 +2,19 @@
 	path = .registry
 	url = https://github.com/marchionnilab/marchionnilab.r-universe.dev
 	branch = HEAD
-[submodule "covid19census"]
-	path = covid19census
-	url = https://github.com/marchionniLab/covid19census
+[submodule "ABCutilities"]
+	path = ABCutilities
+	url = https://github.com/marchionniLab/ABCutilities
+[submodule "BiocStyle"]
+	path = BiocStyle
+	url = https://github.com/Bioconductor/BiocStyle
+	registered = false
 [submodule "RTopper"]
 	path = RTopper
 	url = https://github.com/marchionniLab/RTopper
+[submodule "covid19census"]
+	path = covid19census
+	url = https://github.com/marchionniLab/covid19census
 [submodule "divergence"]
 	path = divergence
 	url = https://github.com/marchionniLab/divergence
@@ -17,10 +24,3 @@
 [submodule "switchBox"]
 	path = switchBox
 	url = https://github.com/marchionniLab/switchBox
-[submodule "ABCutilities"]
-	path = ABCutilities
-	url = https://github.com/marchionniLab/ABCutilities
-[submodule "BiocStyle"]
-	path = BiocStyle
-	url = https://github.com/Bioconductor/BiocStyle
-	registered = false
