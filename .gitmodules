@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/marchionnilab/marchionnilab.r-universe.dev
 	branch = HEAD
-[submodule "ABCutilities"]
-	path = ABCutilities
-	url = https://github.com/marchionniLab/ABCutilities
 [submodule "BiocStyle"]
 	path = BiocStyle
 	url = https://github.com/Bioconductor/BiocStyle
