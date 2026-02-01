@@ -1,8 +1,0 @@
-[
-  {
-    "package": "BiocStyle",
-    "url": "https://github.com/Bioconductor/BiocStyle",
-    "via": ["covid19census"],
-    "from": "covid19census"
-  }
-]

@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/marchionnilab/marchionnilab.r-universe.dev
 	branch = HEAD
-[submodule "BiocStyle"]
-	path = BiocStyle
-	url = https://github.com/Bioconductor/BiocStyle
-	registered = false
 [submodule "RTopper"]
 	path = RTopper
 	url = https://github.com/marchionniLab/RTopper
